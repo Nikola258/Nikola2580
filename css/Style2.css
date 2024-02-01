@@ -1,0 +1,1068 @@
+.Header{
+    display: flex;
+    height: 100px;
+}
+
+.Pink-Goose-Logo{
+    display: flex;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    flex: 1;
+    justify-content: end;
+    background-color: black;
+    font-size: 30px;
+    align-items: center;
+}
+
+.Goose-Text{
+    -webkit-text-fill-color: rgba(255, 180, 211, 1); 
+    margin-left: 10px;
+}
+
+.Font{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.Navigatie-Balk{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex: 1;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    font-size: 20px;
+    align-items: center;
+}
+
+.Colored-Star{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.Login-Button{
+    display: flex;
+    justify-content: start;
+    flex: 1;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    font-size: 20px;
+    align-items: center;
+}
+
+.Login{
+    background-color:rgba(36, 50, 65, 1);
+    color: black;
+    border-radius: 8px;
+    width: 80px;
+    height: 30px;
+    border: none;
+}
+
+.About-This-Platform{
+    display: flex;
+    font-size: 30x;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    justify-content: space-between;
+    padding: 0px;
+    margin: 0px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.About-1{
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    font-size: 50px;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    font-family: 'IBM Plex Sans', sans-serif;
+    height: 150px;
+}
+
+.About-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    height: 50px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.About-3{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    font-size: 25px;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    height: 50px;
+}
+
+.About-4{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 25px;
+    background-color: black;
+    -webkit-text-fill-color: white;
+}
+
+.Get-Started-Button-Holder{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    background-color: black;
+    align-items: end;
+}
+.Get-Started-Button{
+    background-color:rgba(206, 170, 255, 1);
+    color: black;
+    border-radius: 8px;
+    width: 150px;
+    height: 50px;
+    border: none;
+}
+
+.Projects-Within-DAO{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.Hold-Text-Ready{
+    display: flex;
+    align-items: flex-start;
+    padding-top: 20px;
+}
+
+.Star-Type-1{
+    display: flex;
+    justify-content: center;
+    width: 80px;
+    padding-right: 80px;
+    align-items: flex-start;
+}
+
+.Ready{
+    font-size: 40px;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    align-items: flex-start;
+    padding-right: 130px;
+}
+
+.Pink-Arrow-Pointing-Down{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: black;
+    height: 150px;
+    align-items: center;
+}
+
+.DAOS-Container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4px solid blue;
+    height: 100px;
+    width: 100px;
+}
+
+.Pomp-Text-1{
+    margin-left: 20px;
+    font-size: 21px;
+    margin-bottom: 20px;
+}
+
+.White-Arrow{
+    padding-left: 10px;
+    margin-top: 2px;
+}
+
+.The-Unstoppable-Podcast{
+    margin: 20px;
+}
+
+.Listen1{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 20px;
+    color: white; 
+    padding-top: 18px;
+}
+
+.Watch{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 20px;
+}
+
+.Listen2{
+    padding-top: 20px;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 20px;
+}
+
+.Pomp-Text-2{
+    margin-left: 20px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: rgba(226, 226, 226, 1);
+}
+
+.Pomp-Text-3{
+    margin-left: 20px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: rgba(226, 226, 226, 1);
+}
+
+.Project-Buttons-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    background-color: black;
+}
+
+.DAOS-Container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Project-Buttons-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding-top: 20px;
+}
+
+.Investment-Button{
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: rgba(24, 38, 50, 1);
+    -webkit-text-fill-color:rgba(255, 180, 211, 1);
+    width: 180px;
+    border: none;
+    height: 50px;
+}
+
+.Startup-Button{
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: rgba(24, 38, 50, 1);
+    width: 145px;
+    height: 50px;
+    -webkit-text-fill-color:rgba(255, 194, 76, 1);
+    border: none;
+}
+
+.Service-Button{
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: rgba(24, 38, 50, 1);
+    -webkit-text-fill-color:rgba(211, 135, 247, 1);
+    width: 155px;
+    height: 50px;
+    border: none;
+}
+
+.Community-Button{
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: rgba(24, 38, 50, 1);
+    width: 180px;
+    height: 50px;
+    -webkit-text-fill-color:rgba(119, 230, 255, 1);
+    border: none;
+}
+
+.Impact-Button{
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: rgba(24, 38, 50, 1);
+    -webkit-text-fill-color:rgba(35, 201, 222, 1);
+    width: 150px;
+    height: 50px;
+    border: none;
+}
+
+.DeFi-Button{
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: rgba(24, 38, 50, 1);
+    -webkit-text-fill-color:rgba(255, 158, 158, 1);
+    width: 130px;
+    height: 50px;
+    border: none;
+}
+
+.More-Button{
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: rgba(24, 38, 50, 1);
+    width: 100px;
+    height: 50px;
+    -webkit-text-fill-color: rgba(112, 127, 141, 1);
+    border: none; 
+    margin: 10px;
+}
+
+.Dao-Projects{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Dao-Projects-Image{
+    padding-top: 30px;
+}
+
+.img2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Launch-Marketing{
+    -webkit-text-fill-color: rgba(255, 180, 211, 1);
+}
+
+.Full-Journey{
+    -webkit-text-fill-color: white;
+}
+
+.Designs{
+    background-color: black;
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -webkit-text-fill-color:rgba(55, 66, 77, 1);
+    height: 700px; 
+    margin-top: -180px;
+}
+
+.Group-Icons{
+    font-size: 25px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Box-Icons{
+    border: 4px solid rgba(42, 55, 68, 1);
+    width: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    background-color:rgba(42, 55, 68, 1);
+    flex-direction: column;      
+}
+
+.Container-With-Center-Function{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: black;
+    align-items: center;
+}
+
+.Hold-Group-Icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    padding-top: 75px;
+    width: 1200px;
+    padding-bottom: 250px;
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
+
+.Launch-Button-Style{
+    background-color:pink; 
+    height: 40px; 
+    border: none; 
+    border-radius: 150px; 
+    margin-top: -25px;
+}
+
+.end{
+    background-color: rgba(18, 30, 40, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75px;
+}
+
+.Project-Launcher-Button{
+display: flex; 
+justify-content: center; 
+align-items: center; 
+background-color: black;
+}
+
+.text-end{
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.hold-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 450px;
+}
+
+.img-end{
+    align-items: center;
+    justify-content: flex-end;
+    display: flex;
+    width: 450px;
+}
+
+.pink-box{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    background-color:rgba(255, 180, 211, 1);
+    flex-direction: column;
+}
+
+.Our-Heroes-Text{
+    font-size: 45px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.Hold-Blocks{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 1000px;
+    -webkit-text-fill-color: black;
+}
+
+.Text-Within-Our-Heroes-Group{
+    padding-left: 20px;
+}
+
+.Jhon-Doe-Block{
+    background-color: rgba(255, 180, 211, 1);
+    width: 300px;
+    border-radius: 12px;
+    height: 325px;
+}
+
+.Img-Of-Our-Heroes{
+    padding-top: 20px;
+}
+
+.Jane-Doe-Block{
+    background-color: rgba(255, 180, 211, 1);
+    width: 300px;
+    border-radius: 12px;
+    height: 325px;
+}
+
+.Contact-Arrow{
+    padding-left: 10px;
+}
+
+.Hans-Erikson-Block{
+    background-color: rgba(255, 180, 211, 1);
+    width: 300px;
+    border-radius: 12px;
+    height: 325px;
+}
+
+.Our-Heroes-image{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.OH-text2{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    padding-bottom: 75px;
+}
+
+.Contact-AR{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-right: 20px;
+}
+
+.weekly-digest{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.Weekly-Digest-box-type{
+    width: 800px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    background-color: rgba(18, 30, 40, 1);
+    border-radius: 12px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    border: 4px solid rgba(42, 55, 68, 1);
+}
+
+.Weekly-Digest-Text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.Weekly-Digest-Text-Below{
+    font-size: 40px; 
+    -webkit-text-fill-color: rgba(154, 175, 195, 1); 
+    padding-bottom: 50px;
+}
+
+.Email-Input{
+    border-radius: 12px;
+    width: 400px; 
+    height: 50px;
+    background-color: rgba(18, 30, 40, 1);
+    color: white;
+    border-color: rgba(42, 55, 68, 1);
+    padding-left: 20px;
+}
+
+.Block-holder{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    color: black;
+    width: 1150px;
+}
+
+.Decrypt-box{
+    background-color: rgba(119, 230, 255, 1);
+    width: 325px;
+    height: 325px;
+    border-radius: 12px;
+}
+
+.TechCrunch-box{
+    width: 325px;
+    height: 325px;
+    border-radius: 12px;
+    background-color: rgba(219, 226, 104, 1);
+}
+
+.Blockworks-Box{
+    background-color: rgba(226, 193, 249, 1);
+    width: 325px;
+    height: 325px;
+    border-radius: 12px;
+}
+
+.Decrypt-text{
+    font-size: 22px;
+    padding-left: 20px;
+    margin-right: 90px;
+    margin-top: 10px;
+    width: 250px;
+}
+
+.Decrypt-text2{
+    font-size: 18px;
+    padding-left: 20px;
+    margin-right: 90px;
+    width: 250px;
+}
+
+.Read1{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 20px;
+}
+
+.Blockwork-text2{
+    font-size: 18px;
+    padding-left: 20px;
+    margin-right: 90px;
+    width: 250px;
+}
+
+.Blockwork-text{
+    font-size: 22px;
+    padding-left: 20px;
+    margin-right: 90px;
+    margin-top: 10px;
+}
+
+.light-purple-box-inleiding{
+    width: 325px;
+    height: 325px;
+    border-radius: 12px;
+    background-color: rgba(226, 193, 249, 1);
+}
+
+.TechCrunch-text{
+    font-size: 22px;
+    padding-left: 20px;
+    margin-right: 90px;
+    margin-top: 10px;
+    width: 275px;
+}
+
+.TechCrunch-text2{
+    font-size: 18px;
+    padding-left: 20px;
+    margin-right: 90px;
+    width: 250px;
+}
+.Hold-Press-Text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Press{
+    font-size: 40px;
+    display: flex;
+    color: white;
+    margin-bottom: 25px;
+}
+
+.See-All{
+    color: rgba(131, 149, 167, 1);
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 925px;
+}
+
+.podcast-hold{
+    padding-top: 100px;
+}
+
+.A-Group-Of-Stars{
+    padding-left: 75px;
+}
+
+.Grey-Arrow-Pointing-Right{
+    padding-left: 10px;
+}
+
+.podcast{
+    font-size: 40px;
+    display: flex;
+    color: white;
+    padding-left: 155px;
+    margin-bottom: 25px;
+}
+
+.The_Pomp_IMG{
+    margin: 20px;
+}
+.listen-box{
+    background-color: rgba(18, 30, 40, 1);
+    border: 4px solid rgba(42, 55, 68, 1);
+    border-radius: 12px;
+    width: 325px;
+    height: 325px;
+    border-radius: 12px;
+}
+
+.listen-box2{
+    background-color: rgba(18, 30, 40, 1);
+    border: 4px solid rgba(42, 55, 68, 1);
+    border-radius: 12px;
+    width: 325px;
+    height: 325px;
+    border-radius: 12px;
+}
+
+.listen-box3{
+    background-color: rgba(18, 30, 40, 1);
+    border: 4px solid rgba(42, 55, 68, 1);
+    border-radius: 12px;
+    width: 325px;
+    height: 325px;
+    border-radius: 12px;
+}
+
+.Unstoppable-Podcast-text1{
+    font-size: 20px;
+    padding-left: 20px;
+    margin-right: 25px;
+    margin-top: 10px;
+    color: white;
+}
+
+.Unstoppable-Podcast-text2{
+    margin-left: 20px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: rgba(226, 226, 226, 1);
+}
+
+.ZIMA-RED{
+    margin: 20px;
+}
+
+.ZIMA-text1{
+    font-size: 20px;
+    padding-left: 20px;
+    margin-right: 25px;
+    margin-top: 10px;
+    color: white;
+}
+
+.ZIMA-text2{
+    color: rgba(226, 226, 226, 1);
+    margin-left: 20px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.ZIMA-text3{
+    color: rgba(226, 226, 226, 1);
+    margin-left: 20px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.Unstoppable-Podcast-text3{
+    margin-left: 20px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: rgba(226, 226, 226, 1);
+}
+
+.Group-of-Stars2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+.Whats-Your-Goose-Idea{
+    font-size: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Lets-Chat{
+    font-size: 50px;
+    color: rgba(90, 108, 126, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+
+.yellow-box{
+    display: flex;
+    width: 270px;
+    height: 100px;
+    justify-content: start;
+    align-items: center;
+    background-color: rgba(255, 200, 3, 1);
+    border-radius: 12px;
+}
+
+.Telegram-Text{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    padding-left: 30px;
+    font-size: 23px;
+}
+.Box-Holder-2{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    color: black;
+    width: 650px;
+}
+
+.Telegram-Img{
+    padding-left: 20px;
+}
+
+.Email-Img{
+    padding-left: 20px;
+}
+
+.Dao-Team{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    color: rgba(77, 55, 5, 1);
+    padding-left: 30px;
+}
+
+.Text-Holder{
+    display: flex;
+    flex-direction: column;
+}
+
+.Dao-Support{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    color: rgba(64, 53, 75, 1);
+    padding-left: 30px;
+}
+
+.Email-Text{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    padding-left: 30px;
+    font-size: 23px;
+}
+
+.purple-box{
+    display: flex;
+    width: 270px;
+    height: 100px;
+    justify-content: start;
+    align-items: center;
+    background-color:plum;
+    border-radius: 12px;
+}
+
+.Container-2-With-Center-Function{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: black;
+    align-items: center;
+}
+
+.box-holder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Box-holder{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+}
+
+.Send-A-Post-Goose{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-size: 40px;
+    padding-right: 120px;
+}
+
+.Box-Type2{
+    width: 800px;
+    height: 800px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    background-color: rgba(18, 30, 40, 1);
+    border-radius: 12px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    border: 4px solid rgba(42, 55, 68, 1);
+}
+
+.type-center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.message-text2{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    height: 250px;
+}
+
+.Fill-In-Email{
+    border-radius: 12px;
+    width: 425px; 
+    height: 50px;
+    background-color: rgba(18, 30, 40, 1);
+    color: white;
+    display: flex;
+    border-color: rgba(42, 55, 68, 1);
+    margin-bottom: 25px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.Fill-In-Name{
+    border-radius: 12px;
+    width: 425px; 
+    height: 50px;
+    background-color: rgba(18, 30, 40, 1);
+    color: white;
+    display: flex;
+    border-color: rgba(42, 55, 68, 1);
+    margin-bottom: 25px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.Choose-Option-Colour{
+    border-radius: 12px;
+    height: 50px;
+    background-color: rgba(18, 30, 40, 1);
+    color: white;
+    display: flex;
+    border-color: rgba(42, 55, 68, 1);
+    margin-bottom: 25px;
+    margin-top: 20px;
+    width: 450px;
+}
+
+.Send-Button{
+    height: 60px;
+    background-color: rgba(206, 170, 255, 1);
+    border-radius: 12px;
+    width: 150px;
+}
+
+.layer-bttn{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.Subscribe-Button{
+    height: 50px;
+    background-color: rgba(206, 170, 255, 1);
+    border-radius: 12px;
+    width: 120px;
+}
+
+.Work-With-Stars{
+    background-color: black;
+}
+
+.Works-With-Star-1{
+    padding-left: 325px;
+}
+
+.Works-With-Star-2{
+    padding-left: 475px;
+}
+
+.Works-With-Text{
+    justify-content: center; 
+    align-items: center; 
+    display: flex; 
+    font-size: 40px; 
+    margin-top: -25px; 
+    -webkit-text-fill-color: white;
+}
+
+.Fill-In{
+    background-color: rgba(18, 30, 40, 1);
+    border-radius: 12px;
+    height: 250px; 
+    width: 410px;
+    display: flex;
+    color: white;
+    border-color: rgba(42, 55, 68, 1);
+}
+
+.Group-Of-Stars-1{
+    padding-top: 100px; 
+    background-color: black; 
+    padding-left: 700px;
+}
+
+.Group-Stars{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 200px;
+}
+
+.help-at-every-step{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Help-at-every-step-FT{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    padding-top: 180px;
+    padding-bottom: 60px;
+}
+
+.Help-at-every-step-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Support{
+    display: flex;
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+.Support-holder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
